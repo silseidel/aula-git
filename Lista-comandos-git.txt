@@ -1,3 +1,12 @@
-Lista de comandos git:
+Lista de comandos git.
+
+
 
 Está é uma lista de comandos que estou aprendendo.
+
+
+git init
+git commit
+git add
+git reset
+git log
