@@ -4,6 +4,20 @@
 
 
 
+
+
 Está é uma lista de comandos que estou aprendendo.
+
+
+
+
+git init
+git add
+git commit
+git log
+git status
+git reset
+git push
+git pull
 
 
