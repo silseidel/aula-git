@@ -2,11 +2,9 @@ Lista de comandos git.
 
 
 
-Est· È uma lista de comandos que estou aprendendo.
+Est√° √© uma lista de comandos que estou aprendendo.
 
 
-git init
-git commit
 git add
 git reset
 git log
